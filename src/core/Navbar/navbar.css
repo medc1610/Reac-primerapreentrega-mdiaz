@@ -1,0 +1,11 @@
+.grid-navbar{
+    background-color: #282828;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    justify-items: center;
+    gap: 10px;
+    color: white;
+    align-items: center;
+}
