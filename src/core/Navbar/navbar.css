@@ -9,3 +9,13 @@
     color: white;
     align-items: center;
 }
+
+.links-buttons{
+    text-decoration: none;
+    color: white;
+}
+
+.dropdown-links{
+    text-decoration: none;
+    color: rgb(128, 128, 128);
+}

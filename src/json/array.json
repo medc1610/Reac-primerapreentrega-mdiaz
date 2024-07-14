@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Bateria",
+    "subtitulo": "200Ah 12V 65",
+    "description": "Batería recargable de alta capacidad con una capacidad de 200 Ah y voltaje de 12V. Diseñada para proporcionar energía constante y de larga duración. Ideal para sistemas de energía solar y otras aplicaciones que requieren almacenamiento de energía confiable.",
+    "precio": 100000,
+    "cantidad": 5,
+    "categoria": "baterias",
+    "marca": "Ultracell",
+    "imagen": "https://proyectospvchile.cl/wp-content/uploads/2021/08/UCG200-12-min.png",
+    "imagenMarca": "https://www.ultracell.es/assets/_images/logo.png"
+  },
+  {
+    "id": 2,
+    "name": "Bateria",
+    "subtitulo": "100Ah 12V 70",
+    "description": "Batería de alto rendimiento con una capacidad de 100 Ah y voltaje de 12V. Ofrece una solución eficiente y duradera para sistemas de energía renovable y aplicaciones móviles.",
+    "precio": 100000,
+    "cantidad": 5,
+    "categoria": "baterias",
+    "marca": "Ultracell",
+    "imagen": "https://proyectospvchile.cl/wp-content/uploads/2021/08/UCG200-12-min.png",
+    "imagenMarca": "https://www.ultracell.es/assets/_images/logo.png"
+  },
+  {
+    "id": 3,
+    "name": "Panel Solar",
+    "subtitulo": "24V",
+    "description": "Panel solar de alta eficiencia con tecnología avanzada. Diseñado para uso doméstico, este panel ofrece una generación de energía sostenible y confiable.",
+    "precio": 100000,
+    "cantidad": 3,
+    "categoria": "paneles",
+    "marca": "Canadian Solar",
+    "imagen": "https://solaryled.cl/storage/2021/03/panelxc%CC%A7.png",
+    "imagenMarca": "https://pvtechnologyinc.net/wp-content/uploads/2019/06/canadian-solar-logo-400x200.png"
+  },
+  {
+    "id": 4,
+    "name": "Panel Solar",
+    "subtitulo": "12V",
+    "description": "Panel solar de alta eficiencia de 12V, que garantiza un rendimiento óptimo en diversas condiciones ambientales. Una solución eficaz para la generación de energía renovable en el hogar.",
+    "precio": 100000,
+    "cantidad": 2,
+    "categoria": "paneles",
+    "marca": "Canadian Solar",
+    "imagen": "https://solaryled.cl/storage/2021/03/panelxc%CC%A7.png",
+    "imagenMarca": "https://pvtechnologyinc.net/wp-content/uploads/2019/06/canadian-solar-logo-400x200.png"
+  },
+  {
+    "id": 5,
+    "name": "Inversor",
+    "subtitulo": "110V 15A",
+    "description": "Inversor de alta capacidad con características avanzadas. Ofrece una conversión eficiente de energía para alimentar dispositivos electrónicos y electrodomésticos.",
+    "precio": 100000,
+    "cantidad": 5,
+    "categoria": "inversores",
+    "marca": "Voltronic Power",
+    "imagen": "https://solarenlinea.cl/wp-content/uploads/2022/05/vm-24v-300x300-1-300x300.png",
+    "imagenMarca": "https://solarenlinea.cl/wp-content/uploads/2022/07/logo-voltronic.png"
+  },
+  {
+    "id": 6,
+    "name": "Inversor",
+    "subtitulo": "220V 25A",
+    "description": "Inversor potente con 220V 25A, diseñado para manejar cargas más exigentes. Proporciona una conversión de energía estable y segura.",
+    "precio": 100000,
+    "cantidad": 5,
+    "categoria": "inversores",
+    "marca": "Voltronic Power",
+    "imagen": "https://solarenlinea.cl/wp-content/uploads/2022/05/vm-24v-300x300-1-300x300.png",
+    "imagenMarca": "https://solarenlinea.cl/wp-content/uploads/2022/07/logo-voltronic.png"
+  }
+]
